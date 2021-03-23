@@ -10,4 +10,4 @@
 
 📫  How to reach me:
 
-   LinkedIn: @connorworthen, Twitter: @worthenconnor
+   LinkedIn: @connorworthen, Email: connorw220@protonmail.com, Twitter: @worthenconnor
