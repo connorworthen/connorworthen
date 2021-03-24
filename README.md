@@ -2,7 +2,7 @@
 
 👉  About me:
 
-   My name is Connor Worthen, I am 22 years old and currently live in San Diego, CA. I’m a back-end focused full stack software engineer. Recently, graduated from Flatiron School with a passion for data structures and algorithms. My goal is to work with technology to increase performance levels, optimize high responsiveness, and scalability of applications. Aside from programming, I am passionate about chess, trail running, and cooking.
+   Hello, my name is Connor Worthen. I’m a back-end focused full stack software engineer. I have a passion for data structures, algorithms, machine learning, and big data. My goal is to work with technology to increase performance levels, optimize high responsiveness, and scalability of applications. Aside from programming, I am passionate about ultramarathons, and triathlons.
   
  💻  Skills:
  
